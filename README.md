@@ -99,6 +99,6 @@ eduGenie Chatbot relies on several key libraries and models:
 ![App Running - 2](images/pictures_2.png)
 
 ### Avatar Talking Head
-![Demo Video](https://www.youtube.com/watch?v=doW3Zbq3bu8)
+![Demo Video](https://drive.google.com/file/d/1Sy5fOYLvzwa4CQ4ThFMzuvdGTJ7QN4G0/view?usp=drivesdk)
 
 eduGenie Chatbot is more than just a language learning tool; it's a responsive, engaging, and empathetic virtual assistant designed to make learning English interactive and enjoyable!
